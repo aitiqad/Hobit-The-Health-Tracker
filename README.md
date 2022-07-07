@@ -1,16 +1,15 @@
-# hobit
+# HoBiT
+## *THE HEALTH TRACKER*
 
-A new Flutter project.
+This APP has a variety of features and aids in activity tracking: <br />
+1. Adding an activity <br />
+2. Setting time limits for activities <br /> 
+3. Deleting the actvity <br />
 
-## Getting Started
+Upcoming updates: <br />
+1. Activities will be linked with a HoBit Account so that u never loose your information<br />
+2. Daily, Weekly, Monthly & Yearly Graph of the activities <br />
+3. Push Notifications after the completion of the task <br />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+!['APP ICON'](Untitled%20design.png)  <br />
+APP ICON
